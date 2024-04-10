@@ -1,4 +1,4 @@
-Snake Game Readme
+Snake Game 
 
 This is a classic snake game built in C# using the WPF application. In this game, the player controls a snake using the w, a, s, d keys to eat food and grow in length. The game ends if the snake runs into the walls or itself.
 
